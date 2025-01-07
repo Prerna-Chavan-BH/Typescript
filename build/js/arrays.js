@@ -1,0 +1,14 @@
+var stringArr = ['Pune', 'Mumbai', 'Kolkata', 'Chennai'];
+console.log("String Array: ", stringArr);
+var unionArr = ['Himalaya', 12, 'Kalsubai', 35];
+console.log("Union Array: ", unionArr);
+var mixedArr = ['Dog', 121, true];
+console.log("Mixed Array: ", mixedArr);
+stringArr[0] = 'Hyderabad';
+console.log("Updated String Array: ", stringArr);
+stringArr.push('Kolkata');
+console.log("Latest updated string array: ", stringArr);
+var test = [];
+var bands = [];
+bands.push('Prerna Chavan');
+console.log(bands);

@@ -110,5 +110,5 @@
   },
   "include" : [                                          /* Skip the js file creation for the files outside the source directory */
     "source"
-, "build/js/main.js"  ]
+, "build/js/main.js", "build/js/arrays.js", "build/js/tuples.js", "build/js/object.js", "build/js/enums.js"  ]
 }
